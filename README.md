@@ -1,2 +1,0 @@
-# funniest
-Funniest project ever!
